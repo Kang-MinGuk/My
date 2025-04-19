@@ -19,34 +19,30 @@
 ## 📌 프로젝트 경험
 
 ### 🕹️ 프로젝트 A (가칭, 실무 기반 재구성)
-- **기간**: 2023.03 ~ 2023.11  
+- **기간**: 2020.11 ~ 2021.05  
 - **개요**: 모바일 PvE 중심의 탑다운 슈팅 게임 (Unity 기반)
 - **담당 역할**
   - 전투 시스템 구현 (몬스터 AI FSM, 피격 판정, 투사체 처리)
-  - Addressable 기반 리소스 로딩 최적화
-  - 내부 툴 개발 (Wave 패턴 에디터, Battle Simulator)
-- **성과**
-  - 내부 테스트 기준 프레임 드랍 35% 개선
-  - QA 피드백 반영 7회 이상, 유지보수성 향상
+  - 리소스 관리 구현.
+  - 길드 시스템 구현.
 
-🔗 관련 코드 샘플: [BattleSystem Sample (GitHub 링크)](./BattleSystem_Sample.cs)
+🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectA-Sample
 
 ---
 
-### 🎮 개인 프로젝트: Rogue Spirit (개인 2인 팀, 클라이언트 담당)
-- **장르**: 로그라이크 액션, Unity
-- **주요 구현 내용**:
-  - 캐릭터 컨트롤러 & 콤보 시스템
-  - 간단한 행동 트리 기반 몬스터 AI
-  - 타일맵 기반 자동 맵 생성
-- **성과**:
-  - itch.io에 테스트 버전 출시 → 250+ 다운로드
-  - 피드백 기반 업데이트 3회 진행
+### 🕹️ 프로젝트 B (가칭, 실무 기반 재구성)
+- **기간**: 2020.11 ~ 2021.05  
+- **개요**: 모바일 PvE 중심의 탑다운 슈팅 게임 (Unity 기반)
+- **담당 역할**
+  - 전투 시스템 구현 (실시간 협동 및 PVP)
+  - 프레임워크 제반 시스템 (네트워크, 풀링 등)
 
-🔗 플레이 영상: [YouTube 링크](https://youtube.com/yourlink)  
-🔗 코드 샘플: [GitHub Repository](https://github.com/yourusername/rogue-spirit)
+🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectB-Sample
 
 ---
+
+
+
 ## 📫 Contact
 
 - Email: kangmk513@gmail.com
