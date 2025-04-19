@@ -25,6 +25,7 @@
   - 전투 시스템 구현 (몬스터 AI FSM, 피격 판정, 투사체 처리)
   - 리소스 관리 구현.
   - 길드 시스템 구현.
+  - 기타 컨텐츠
 
 🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectA-Sample
 
@@ -36,6 +37,7 @@
 - **담당 역할**
   - 전투 시스템 구현 (실시간 협동 및 PVP)
   - 프레임워크 제반 시스템 (네트워크, 풀링 등)
+  - 기타 컨텐츠
 
 🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectB-Sample
 
@@ -50,6 +52,30 @@
 🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ToolA-Sample
 
 ---
+
+### 🕹️ 프로젝트 C (가칭, 실무 기반 재구성)
+- **기간**: 2021.11 ~ 2022.11
+- **개요**: 실시간 대전 스포츠 게임
+- **담당 역할**
+- - 대전 진행 (1:1 실시간 PVP)
+  - 리소스 전반 (시스템 관리 전반)
+  - 기타 컨텐츠
+
+🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectC-Sample
+
+---
+
+### 🕹️ 프로젝트 D (가칭, 실무 기반 재구성)
+- **기간**: 2022.11 ~ 2025.02
+- **개요**: RPG GAME
+- **담당 역할**
+  - 전투 (캐릭터 및 전투 진행 방식 모드 - 실시간, 턴제 등)
+  - 컨텐츠
+
+🔗 관련 코드 샘플: https://github.com/Kang-MinGuk/ProjectD-Sample
+
+---
+
 
 
 ## 📫 Contact
